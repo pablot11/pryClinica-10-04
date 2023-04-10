@@ -1,0 +1,12 @@
+D:\Escritorio\pryClinica-LP3\bin\Debug\pryClinica-LP3.exe.config
+D:\Escritorio\pryClinica-LP3\bin\Debug\pryClinica-LP3.exe
+D:\Escritorio\pryClinica-LP3\bin\Debug\pryClinica-LP3.pdb
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.csproj.AssemblyReference.cache
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica_LP3.frmPrincipal.resources
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica_LP3.Properties.Resources.resources
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.csproj.GenerateResource.cache
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.exe
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica-LP3.pdb
+D:\Escritorio\pryClinica-LP3\obj\Debug\pryClinica_LP3.frm2.resources
